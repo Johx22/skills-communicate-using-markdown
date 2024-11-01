@@ -1,3 +1,3 @@
-``` python
-text = "Hello, world!"
-```
+- [ ] Review existing codes
+- [ ] Merge pending PR
+- [ ] Start working on Portfolio
